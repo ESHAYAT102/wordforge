@@ -29,8 +29,8 @@ irm https://raw.githubusercontent.com/ESHAYAT102/wordforge/main/scripts/install.
 The binary is installed to `~/.local/bin/wordforge` on Linux and macOS, or
 `$HOME\.local\bin\wordforge.exe` on Windows.
 
-Install `crwl`, `lapip`, and `crack` separately before running the pipeline.
-They can also be built locally and placed on `PATH`.
+The installer asks whether `crwl`, `lapip`, and `crack` should be installed too.
+Answer `n` to skip them; they can also be built locally and placed on `PATH`.
 
 ## Usage
 
